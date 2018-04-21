@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Conveyor</string>
+    <string name="Made_by">Made By\nDishant Chauhan\tAbhishek Pratap\nAyush Saxena\tGaurav Patel</string>
+    <string name="guidance">Under the Guidance of \n Ms. Geetika Aswani</string>
+    <string name="project">\t\t\t\t\t\t\t\t\t\t\t\tAutomated\nConveyor Weighting Machine</string>
+    <string name="barcode">Barcode</string>
+    <string name="weight">Weight</string>
+</resources>
